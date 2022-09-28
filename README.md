@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### 👋 Hi, I'm Vivek Wisdom
 
-I design, build, and operate full stack machine learning and data science systems that serve customers at scale. Currently, I'm Lead Data Scientist at @TR (Thomson Reuters) helping fortune 500 clients make impactful decisions based on data. Outside of work, I also...
+I design, build, and operate full stack machine learning and data science systems that serve customers at scale. Currently, I'm Lead Data Scientist at @TR (Thomson Reuters) helping our sales and marketing teams retain customers & take impactful decisions based on data. Outside of work, I also...
 
 - 📝 [Write](https://blog.vivekwisdom.com/) & [speak](https://www.youtube.com/c/VivekWisdomOfficial) about effective data science, data/ML systems, and career growth.
 - 🧠 [Teach & Mentor](https://www.linkedin.com/in/vivekwisdom/) at my blog and at LinkedIn about Data Science.
